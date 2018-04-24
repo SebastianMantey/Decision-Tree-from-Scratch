@@ -14,5 +14,5 @@ In this series we are going to code a decision tree classifier from scratch usin
 - seaborn                   0.7.1
 
 ## Credits
-- The Iris flower data set comes from here: https://www.kaggle.com/uciml/iris/data
-- The Titanic data set comes from here: https://www.kaggle.com/c/titanic/data
+- The Iris flower data set comes from here: https://www.kaggle.com/uciml/iris
+- The Titanic data set comes from here: https://www.kaggle.com/c/titanic
