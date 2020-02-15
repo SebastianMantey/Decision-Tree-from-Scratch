@@ -1,5 +1,4 @@
 # Decision-Tree-from-Scratch
-## Overview
 
 This is the repo for my YouTube playlist ["Coding a Decision Tree from Scratch"](https://www.youtube.com/watch?v=y6DmpG_PtN0&list=PLPOTBrypY74xS3WD0G_uzqPjCQfU6IRK-). The goal is to code a decision tree classifier/regressor from scratch using just NumPy and Pandas.
 
