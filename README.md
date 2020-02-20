@@ -1,4 +1,5 @@
 # Decision-Tree-from-Scratch
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SebastianMantey/Decision-Tree-from-Scratch/master)
 
 This is the repo for my YouTube playlist ["Coding a Decision Tree from Scratch"](https://www.youtube.com/watch?v=y6DmpG_PtN0&list=PLPOTBrypY74xS3WD0G_uzqPjCQfU6IRK-). The goal is to code a decision tree classifier/regressor from scratch using just NumPy and Pandas.
 
