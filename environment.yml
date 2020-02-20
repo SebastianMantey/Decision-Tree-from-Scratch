@@ -1,4 +1,4 @@
-name: decision-tree
+name: decision_tree
 channels:
   - defaults
 dependencies:
